@@ -12,5 +12,7 @@ A simple Tic-Tac-Toe game built with C# and Windows Forms.
 2. Build the project.
 3. Run the application.
 
+4. ![Game Screenshot](Images/Screenshot.png)
+
 ## License
 This project is licensed under the MIT License.
